@@ -2,3 +2,4 @@ RESOLUTION
 belajar
 projek web toko
 membuat forum diskusi
+kolaborasi dengan expert
