@@ -1,2 +1,3 @@
 # webs-resolution
-simpan rencana kedepannya
+simpan rencana kedepannya web toko
+
